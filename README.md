@@ -7,4 +7,4 @@ In this Project, I used Python to build an email spam detector. Then, I used mac
 
 Dataset link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code?datasetId=483&sortBy=voteCount
 
-I performed EDA on dataset and trained models- Logistic Regression, Support Vector Classifier, Random Forest, Complement Naive Bayes and Decision Tree, Logistic Regression model giving highest accuracy of 97.76 %.
+I performed EDA on dataset and trained models- Logistic Regression, Support Vector Classifier, Random Forest, Complement Naive Bayes and Decision Tree on the dataset, Logistic Regression model giving highest accuracy of 97.76 %.
